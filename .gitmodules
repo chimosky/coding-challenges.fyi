@@ -1,3 +1,6 @@
 [submodule "json-parser"]
 	path = json-parser
 	url = git@github.com:chimosky/json-parser.git
+[submodule "wc"]
+	path = wc
+	url = git@github.com:chimosky/wc.git
